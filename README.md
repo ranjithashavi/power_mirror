@@ -1,0 +1,2 @@
+# power_mirror
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f154404a4aa84c9294c083ab9fb8bb11)](https://app.codacy.com/app/ranjithashavi/power_mirror?utm_source=github.com&utm_medium=referral&utm_content=ranjithashavi/power_mirror&utm_campaign=Badge_Grade_Dashboard)
